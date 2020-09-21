@@ -1,0 +1,228 @@
+
+
+/****************************SELECTOR*****************************/
+
+
+body{
+    font-family: Monsterat;
+}
+
+
+/****************************CLASS SELECTOR*****************************/
+
+
+.main-title{
+ font-family:"Montserrat-bold";
+ font-weight: 800;
+ font-size: 5rem;
+ line-height: 1.5 ;
+ margin-left: 50px
+ ;
+ margin-bottom: 35px;
+ color: white;
+ 
+}
+
+.container-fluid{
+    padding: 3% 25%;
+
+    
+}
+
+.row{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-weight: 300px;
+    padding: 90px;
+    font-weight: bold;
+    font-size: 2.7rem!important;
+}
+.nav-bar{
+   padding: 0 0 4.5rem; 
+}
+
+.nav-item{
+    padding: 0 18px;
+    margin-right: 80px;
+    color: black;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Monsterat";
+}
+
+.download-button{
+
+    margin: 3% 2% 3% 0%;
+
+}
+
+.iphone6{
+    width: 40%;
+}
+
+.features{
+    background-color: white;
+    text-align: center;
+    padding: 200px;
+}
+
+.h33 {
+    font-size: 40px;
+}
+.p{
+    font-size: 16px;
+}
+
+.icon{
+
+    color: #ef8172;
+    margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+    color: #FF4C68;
+}
+
+.test{
+    font-family:"Montserrat-bold";
+ font-weight: 800;
+ font-size: 3rem;
+ color:white;
+ font-size: 3rem;
+    line-height: 1.5;
+}
+
+.doggy{
+    width: 10%;
+    border-radius: 100%;
+    padding: 35px;
+    margin-top: 20px;
+    
+}
+
+.taste{
+    color: white;
+    margin-top: 30px;
+    
+}
+
+.presslogo{
+
+    width: 15%;
+    margin: 20px 20px 50px;
+
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.price{
+text-align: center;
+font-size: 3rem;
+margin-top: 50px;
+}
+
+.pricep{
+text-align: center;
+margin-bottom: 80px;
+}
+
+
+
+.card-body{
+background-color: #ef8172;
+padding: 1rem;
+
+}
+
+.list-unstyled {
+    color: white;
+}
+.card-title {
+    color: white;
+}
+.text-mute{
+   
+    color: black!important;
+}
+
+.lasth{
+    font-family:"Montserrat-bold";
+ font-weight: 800;
+ font-size: 3rem;
+ line-height: 1.5 ;
+ color: white;
+}
+
+.lastty{
+    color: white;
+}
+
+
+/****************************ID SELECTOR*******************************/
+
+#title{
+    background-color: #ff4c68;
+}
+
+#first-heading{
+    margin-top: 250px;
+   
+}
+
+#iphone{
+  margin-bottom: 30px;
+  width: 30%;
+}
+
+#testimonials{
+
+    
+    text-align: center;
+    background-color:#ef8172 ;
+}
+
+
+#press{
+    text-align: center;
+    background-color:#ef8172 ;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+
+
+#pricing{
+    padding: 3% 15%;
+    margin-bottom: 50px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding: 3% 15%;
+    text-align: center;
+    
+}
+
+#footer{
+    background-color: #23272B;
+    text-align: center;
+    padding: 10px;
+}
+
+@media (max-width:996px){
+    
+    .iphone6{
+        width: 100%;
+        text-align: center;
+        margin-left: 330px;
+    }
+}
+
